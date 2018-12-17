@@ -1,0 +1,26 @@
+{
+    "name": "senmeng/aliyun",
+    "description": "aliyun-php-sdk-core & aliyun-php-sdk",
+    "keywords": [
+        "laravel",
+        "composer",
+        "aliyun",
+        "移动推送",
+        "OSS"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "aliyun-php-sdk-core/Config.php"
+        ]
+    },
+    "require": {},
+    "authors": [
+        {
+            "name": "senmeng",
+            "email": "626512443@qq.com",
+            "homepage": "http://www.web3.xin"
+        }
+    ]
+}
